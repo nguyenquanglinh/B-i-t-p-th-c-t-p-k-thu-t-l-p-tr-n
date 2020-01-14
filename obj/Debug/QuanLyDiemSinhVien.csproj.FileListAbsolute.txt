@@ -1,0 +1,13 @@
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.DangNhap.resources
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Form1.resources
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.Properties.Resources.resources
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csproj.GenerateResource.Cache
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe.config
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.exe
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\bin\Debug\QuanLyDiemSinhVien.pdb
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.exe
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.pdb
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.csprojResolveAssemblyReference.cache
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.AdminTeacher.resources
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.AdminManager.resources
+C:\Users\thang\OneDrive\Documents\Visual Studio 2015\Projects\QuanLyDiemSinhVien\QuanLyDiemSinhVien\obj\Debug\QuanLyDiemSinhVien.AdminStudent.resources
